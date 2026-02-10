@@ -2,4 +2,6 @@
 
 ## My name is Edier
 
-Hello W
+Hello World 
+This is my first Laravel project    
+
